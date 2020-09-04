@@ -44,7 +44,7 @@
     "clean-webpack-plugin": "^0.1.10",
     "css-loader": "^0.23.1",
     "extract-text-webpack-plugin": "^1.0.1",
-    "node-sass": "^3.8.0",
+    "node-sass": "^4.14.1",
     "piping": "^0.3.2",
     "postcss-loader": "^0.10.1",
     "precss": "^1.4.0",
